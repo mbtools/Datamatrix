@@ -7,6 +7,7 @@ CLASS zcl_datamatrix DEFINITION
 *"* public components of class ZCL_DATAMATRIX
 *"* do not include other source files here!!!
 
+" change 
     TYPES:
       t_text3 TYPE so_text003.
 
